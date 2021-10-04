@@ -1,0 +1,68 @@
+#about_us{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#banner{
+    position: fixed;
+    background-color: #F9CF93;
+    width: 100%;
+    margin-left: 0;
+}
+
+
+#main{
+    margin: 0;
+}
+#Picture {
+    position: absolute;
+    top: 25%;
+    height: 500px;
+    left: 15%;
+}
+#Logo {
+    height: 70px;
+}
+#struct_body{
+    margin: 0;
+}
+.structure {
+    position: absolute;
+    top: 100px;
+    left: 18%;
+    height: 600px;
+
+}
+.space{
+    width: 10px;
+}
+.links{
+    position: relative;
+    left: 1000px;
+}
+.fixed_head {
+    background-color: #F9CF93;
+    margin-top: 0;
+    position: absolute;
+    height: 70px;
+    width: 100%;
+}
+.head_table {
+    background-color: #F9CF93;
+}
+.cont {
+    background-color: #F9E4C8;
+}
+.future {
+    list-style-type: square;
+}
+.Footer{
+    background-color: #FFBF86;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    height: 0px;
+    border-width: 8px;
+    border-color: #FE9898;
+}
