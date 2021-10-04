@@ -35,9 +35,17 @@
 .space{
     width: 10px;
 }
-.links{
-    position: relative;
-    left: 1000px;
+.link1{
+    position: absolute;
+    right: 200px;
+}
+.link2{
+    position: absolute;
+    right: 90px;
+}
+.link3{
+    position: absolute;
+    right: 10px;
 }
 .fixed_head {
     background-color: #F9CF93;
